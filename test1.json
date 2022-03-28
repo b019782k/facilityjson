@@ -1,0 +1,44 @@
+[
+    {
+        "facilityName":"Beacon Building",
+        "facilityPic":"https://github.com/b019782k/facilityjson/blob/gh-pages/images/Beacon.jpg",
+        "facilityDesc":"Just another building",
+        "facilityAddress":"Test Address",
+        
+    },
+    {
+        "facilityName":"Science Building",
+        "facilityPic":"https://github.com/b019782k/facilityjson/blob/gh-pages/images/science.jpg",
+        "facilityDesc":"Just another building",
+        "facilityAddress":"Test Address",
+        
+    },
+    {
+        "facilityName":"Sir Stanley Matthews",
+        "facilityPic":"https://github.com/b019782k/facilityjson/blob/gh-pages/images/gym.jpg",
+        "facilityDesc":"Just another building",
+        "facilityAddress":"Test Address",
+        
+    },
+    {
+        "facilityName":"Library",
+        "facilityPic":"https://github.com/b019782k/facilityjson/blob/gh-pages/images/library.jpg",
+        "facilityDesc":"Just another building",
+        "facilityAddress":"Test Address",
+        
+    },
+    {
+        "facilityName":"Ember Lounge",
+        "facilityPic":"https://github.com/b019782k/facilityjson/blob/gh-pages/images/ember.jpg",
+        "facilityDesc":"Just another building",
+        "facilityAddress":"Test Address",
+        
+    },
+    {
+        "facilityName":"LRV",
+        "facilityPic":"https://github.com/b019782k/facilityjson/blob/gh-pages/images/LRV.jpg",
+        "facilityDesc":"Just another building",
+        "facilityAddress":"Test Address",
+        
+    },
+]
